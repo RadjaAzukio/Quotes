@@ -1,0 +1,21 @@
+#Bahasa pemrograman python
+#Membuat a string 
+#Dengan single Quotes
+Villain = 'A place where you cant see anything'
+print("Darkness")
+print(Villain)
+#membuat String
+#Dengan double Quotes
+Villain2 = "it's sad how innocent people have to go throught it"
+print("\nAll you can see is blood of greedy people")
+print(Villain2)
+#membuat string
+#Dengan tiga Quotes
+Villain3 = '''There's no light in the darkness"'''
+print("\nDo you believe that someone had to be living on that??, do you know how hopeless they're??, how much loneliness that noone couldn't cure that")
+print(Villain3)
+#Creating String With Triple
+#Quotes allows multiple lines
+Villain4 = ''' Because they're kindness people, that deserve to be living and find the peace in a sad and beautiful world^^'''
+print("\nBut they're survive until now, but why must be living in a cruel of fucking world huh??")
+print(Villain4)
